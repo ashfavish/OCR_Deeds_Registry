@@ -24,6 +24,8 @@ The Simulated Deeds Scanned PDFS folder has the sample of 15 deeds which were us
 2) OCR: Tesseract
 3) IPFS
 
+These programmes are available for download at the following links:
+
 1) https://imagemagick.org/script/download.php
 2) https://github.com/tesseract-ocr/tesseract/wiki/Downloads
 3) https://docs.ipfs.io/introduction/install/ 
