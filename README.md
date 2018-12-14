@@ -9,5 +9,8 @@ The following files are included in the OCR package:
 4) encrypt: This file contains AES encryption and descrpytion functions using a user created password. This uses pycrypydome for encryption.  
 5) fullocr: This contains the function which takes functions from the other files to create a full pipeline from pdf to data capture in a csv. 
 6) imageclean: This has the function for preprocessing of images to improve performance of OCR.
-7) 
+7) ipfs: run this file to ensure connection to IPFS is working
+8) methodology: This contains the code for the demonstrating how different parts of the pre-processing appears visually. This file was used to create the images within methodology chapter of dissertation. 
+9) regex: This file has the compiled regular expressions and function used for extracting relevant data from OCR results.
+10) titledeed: This file contains the classes DeedsRegsitry and TitleDeed. For the DeedsRegsitry class, there is a method to create a new registry (i.e. database/csv) if none exists. The TitleDeed class has the relevant information to be extracted as attributes. The methods within this class are create_dictionary and write_to_csv. create_dictionary takes the attributes from the object and creates the relevant number of dictionaries based on the type of deed and how many rows are recorded. write_to_csv then takes these dictionaries and writes them to a csv file.
   
