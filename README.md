@@ -22,7 +22,7 @@ The Simulated Deeds Scanned PDFS folder has the sample of 15 deeds which were us
 
 ### Required programmes external to python required for code to work
 
-1) Image Pre-Procesing: ImageMagick
+1) Image Pre-Processing: ImageMagick
 2) OCR: Tesseract
 3) IPFS
 
