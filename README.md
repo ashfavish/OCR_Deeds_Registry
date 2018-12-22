@@ -32,5 +32,33 @@ These programmes are available for download at the following links:
 2) https://github.com/tesseract-ocr/tesseract/wiki/Downloads
 3) https://docs.ipfs.io/introduction/install/ 
 
+The following are the python packages used:
+
+PDF Conversion:
+1.	io
+2.	wand
+3.	PIL 
+4.	import cv2
+5.	numpy
+6.	os
+
+IPFS and Encryption:
+1.	ipfsapi
+2.	Cryptodomex
+
+Image Pre-Processing
+1.	cv2
+2.	numpy
+
+OCR
+1.	pytesseract
+
+Regex (Text Parsing)
+1.	re
+
+Write to CSV
+1.	csv
+
+
 
   
